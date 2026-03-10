@@ -490,7 +490,7 @@ def generate_word(output_path: str, chart_dir: str):
     doc.add_paragraph(
         "Three forward-looking scenarios are evaluated for each country. "
         "Likelihood percentages reflect the assessed probability of each "
-        "scenario materialising within a 3–5 year horizon."
+        "scenario materializing within a 3–5 year horizon."
     )
 
     # Scenario 1
